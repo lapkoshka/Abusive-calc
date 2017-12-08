@@ -1,0 +1,11 @@
+@media (max-width: 900px) {
+  body {
+    margin: 0;
+  }
+
+  .calc-button {
+    width: 50px;
+    min-height: 50px;
+    font-size: 1.2rem;
+  }
+}
