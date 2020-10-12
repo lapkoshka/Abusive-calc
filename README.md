@@ -1,2 +1,4 @@
 ## Abusive calculator src
-(https://lapaboy.github.io/#l)
+https://loosefer.github.io/
+
+Исходный код: https://github.com/loosefer/Abusive-calc
